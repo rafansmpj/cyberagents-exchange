@@ -8,6 +8,8 @@ tier: "contributed"
 tags: [tenable, ssl-tls, compliance, certificate-management, pci-dss, dashboard]
 integrations: [Tenable]
 date_added: 2026-07-24
+contribution_agreement_date: 2026-07-09T14:30:00Z
+works_with_tenable_hexa_mcp: true
 compatible_platforms: [Claude Code, Claude Desktop]
 invocation: "/tenable-ssl-tls-compliance-dashboard"
 ---
