@@ -6,7 +6,7 @@ description: "Interactive read-only SSL/TLS and certificate compliance dashboard
 license: "MIT"
 tier: "contributed"
 tags: ["tenable", "ssl-tls", "compliance", "certificate-management", "pci-dss", "dashboard"]
-integrations: ["Tenable", "Tenable Hexa AI MCP"]
+integrations: ["Tenable Hexa AI MCP"]
 date_added: 2026-07-27
 contribution_agreement_date: 2026-07-27T15:59:16Z
 works_with_tenable_hexa_mcp: true
