@@ -26,12 +26,15 @@ class Entry(BaseModel):
             "Anthropic",
             "AWS",
             "Azure",
+            "Check Point",
             "Cisco",
             "CrowdStrike",
+            "Firebase",
             "Fortinet",
             "GCP",
             "KnowBe4",
             "Microsoft Sentinel",
+            "Mimecast",
             "Netskope",
             "NVD",
             "PagerDuty",
@@ -43,9 +46,14 @@ class Entry(BaseModel):
             "ServiceNow",
             "Snyk",
             "Splunk",
+            "Supabase",
             "Tenable",
             "Tenable Hexa AI MCP",
+            "URLScan.io",
+            "VirusTotal",
             "Wiz",
+            "Checkmarx One",
+            "SecurityScorecard"
         ]
     ]
     date_added: date
