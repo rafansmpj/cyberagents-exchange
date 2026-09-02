@@ -11,7 +11,7 @@ date_added: 2026-07-27
 contribution_agreement_date: 2026-08-30T23:25:18Z
 works_with_tenable_hexa_mcp: true
 compatible_platforms: ["Claude Code", "Claude Desktop"]
-invocation: "/Tenable SSL & TLS - Compliance Dashboard"
+invocation: "/tenable-ssl-tls-compliance-dashboard"
 ---
 
 A Claude Code/Desktop skill that connects to your Tenable environment via the Hexa AI MCP and delivers a complete SSL/TLS compliance picture as a standalone HTML dashboard — directly in the conversation. Read-only: no certificates are replaced, no services are restarted, no configuration is modified.
