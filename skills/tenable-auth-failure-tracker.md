@@ -15,7 +15,6 @@ cta: "T1"
 compatible_platforms: ["Claude Code", "Claude Desktop"]
 invocation: "/tenable-auth-failure-tracker"
 ---
-last_reviewed: 2026-09-03
 
 The Tenable Auth Failure Tracker is a Claude skill that turns Tenable credentialed scan authentication failures into a triaged, trackable remediation workflow. It targets SOC leads, remediation engineers, vulnerability managers, and IT operations teams who need to close scan coverage gaps caused by failed authentication.
 
