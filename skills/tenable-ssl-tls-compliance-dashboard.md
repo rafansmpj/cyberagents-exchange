@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-09-03
 name: "Tenable SSL & TLS - Compliance Dashboard"
 author: "rafansmpj"
 github_url: "https://github.com/rafansmpj/tenable-ssl-tls-compliance-dashboard"
@@ -10,6 +11,7 @@ integrations: ["Tenable", "Tenable Hexa AI MCP"]
 date_added: 2026-07-27
 contribution_agreement_date: 2026-08-30T23:25:18Z
 works_with_tenable_hexa_mcp: true
+cta: "T1"
 compatible_platforms: ["Claude Code", "Claude Desktop"]
 invocation: "/tenable-ssl-tls-compliance-dashboard"
 ---
