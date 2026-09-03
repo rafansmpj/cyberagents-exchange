@@ -10,6 +10,7 @@ integrations: ["Tenable", "Tenable Hexa AI MCP"]
 date_added: 2026-09-02
 contribution_agreement_date: 2026-09-02T01:46:22Z
 works_with_tenable_hexa_mcp: true
+cta: "T1"
 compatible_platforms: ["Claude Code", "Claude Desktop"]
 invocation: "/tenable-auth-failure-tracker"
 ---
