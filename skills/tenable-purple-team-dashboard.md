@@ -11,6 +11,7 @@ date_added: 2026-09-11
 contribution_agreement_date: 2026-09-11T14:55:28Z
 compatible_platforms: ["Claude Code", "Claude Desktop", "Claude Cowork"]
 invocation: "/tenable-purple-team-dashboard"
+last_reviewed: 2026-09-14
 ---
 
 The Tenable Purple Team Dashboard skill joins Red Team attack findings (pentest / attack-path results tagged with MITRE ATT&CK techniques) against Blue Team remediation and compliance evidence, answering the question two separate silos can't: given what Blue actually fixed, what can Red still do?
