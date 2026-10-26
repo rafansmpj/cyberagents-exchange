@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-10-26
 name: "PHP2Shell Tenable Remediation Tracker"
 author: "rafansmpj"
 github_url: "https://github.com/rafansmpj/php2shell-tenable-remediation-tracker"
