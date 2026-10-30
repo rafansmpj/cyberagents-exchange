@@ -12,6 +12,7 @@ integrations: ["Tenable", "Tenable Hexa AI MCP"]
 date_added: 2026-10-26
 contribution_agreement_date: 2026-10-26T02:38:58Z
 works_with_tenable_hexa_mcp: true
+cta: "T1"
 compatible_platforms: ["Claude Code", "Claude Desktop", "Claude Cowork"]
 invocation: "/php2shell-tenable-remediation-tracker"
 ---
